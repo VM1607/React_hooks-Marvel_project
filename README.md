@@ -9,7 +9,7 @@ With this application, you can find any comic book character that appeared on th
 ![Main page](https://github.com/VM1607/React_hooks-Marvel_project/blob/main/Marvel.png)
 
 <p> This is page of comics. On this page, you can find out the comics you are interested in.
-<p></p>
+![Comics page](https://github.com/VM1607/React_hooks-Marvel_project/blob/main/Marvel_2.png)
 
 
 HOW IS IT MADE?
