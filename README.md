@@ -1,6 +1,6 @@
 MARVEL PROJECT
 
-What is it?
+WHAT IS IT?
 <p>This is an application for finding Marvel heroes and comics.
 With this application, you can find any comic book character that appeared on the pages of Marvel comics, as well as see in which comics it happened.
 
@@ -12,11 +12,11 @@ With this application, you can find any comic book character that appeared on th
 <p></p>
 
 
-How is it made?
+HOW IS IT MADE?
 <p>This project was made with React Hooks.
 Based on the Marvel API.
 
-Getting Started
+GETTIN STARTED
 <p>You need to copy this code into your code editor and run it with "npm start"
 
 Open [https://marvel-project-tau.vercel.app/](https://marvel-project-tau.vercel.app/) to view it in the browser.
