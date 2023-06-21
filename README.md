@@ -17,6 +17,6 @@ HOW IS IT MADE?
 Based on the Marvel API.
 
 GETTIN STARTED
-<p>You need to copy this code into your code editor and run it with "npm start"
+<p>You need to copy this code into your code editor, you must have npm installed to run this application and run it with "npm start"
 
 Open [https://marvel-project-tau.vercel.app/](https://marvel-project-tau.vercel.app/) to view it in the browser.
