@@ -6,11 +6,11 @@ With this application, you can find any comic book character that appeared on th
 
 <p> This is page of heroes. On the main page, you can find out the heroes that have ever appeared on the pages of comics, as well as find the hero you are interested in.
 <p></p>
-![Main page](https://github.com/VM1607/React_hooks-Marvel_project/blob/main/Marvel.png)
+![Иллюстрация к проекту](https://github.com/VM1607/React_hooks-Marvel_project/blob/main/Marvel.png)
 
 <p> This is page of comics. On this page, you can find out the comics you are interested in.
 <p></p>
-![Main page](https://github.com/VM1607/React_hooks-Marvel_project/blob/main/Marvel_2.png)
+![Иллюстрация к проекту](https://github.com/VM1607/React_hooks-Marvel_project/blob/main/Marvel_2.png)
 
 How is it made?
 <p>This project was made with React Hooks.
