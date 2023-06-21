@@ -1,7 +1,7 @@
 MARVEL PROJECT
 
-What is it?
-This is an application for finding Marvel heroes and comics.
+What is it? 
+<p>This is an application for finding Marvel heroes and comics.
 With this application, you can find any comic book character that appeared on the pages of Marvel comics, as well as see in which comics it happened.
 
 ![Main page](https://github.com/VM1607/React_hooks-Marvel_project/blob/main/Marvel.png)
